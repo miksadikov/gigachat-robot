@@ -1,0 +1,9 @@
+vosk
+numpy
+torch
+pyaudio
+pyserial
+gigachat
+ultralytics
+sounddevice
+opencv-contrib-python
